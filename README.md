@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @amirmureed
-- 👀 I’m a Computer Science graduate and want to kickstart my career as a React.Js developer.
-- 🌱 I’m currently learning React and preparing for interviews.
+- 👀 I’m a Computer Science graduate and working as a PHP/WordPress Developer.
 - 💞️ I’m looking to collaborate on some open source projects to build my profile.
 - 📫 **Reach me** amirmureed9@gmail.com
 
