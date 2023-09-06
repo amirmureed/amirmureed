@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @amirmureed
 - 👀 I’m a Computer Science graduate and working as a PHP/WordPress Developer.
-- 💞️ I’m looking to collaborate on some open source projects to build my profile.
 - 💞️ I also have passion for other technologies like React JS and PHP Laravel.
 - 📫 **Reach me** amirmureed9@gmail.com
 
