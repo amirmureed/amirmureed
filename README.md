@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amirmureed
-- 👀 I’m a Computer Science graduate and working as a PHP/WordPress Developer.
-- 💞️ I also have passion for other technologies like React JS and PHP Laravel.
+- 👀 I’m a Computer Science graduate and working as a Software Engineer.
+- 💞️ I am skilled killed in a diverse range of technologies including React JS, Node JS, Strapi, WordPress, and core PHP.
 - 📫 **Reach me** amirmureed9@gmail.com
 
 <!---
